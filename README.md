@@ -1,49 +1,90 @@
-Hi there 👋, I'm Ishika Saini
+# 👋 Hi there, I'm Ishika Saini
 
-B.Tech CSE Student | Aspiring DevOps Engineer | Full-Stack Developer
+💻 Computer Science Student | 🌩️ Aspiring Cloud & Data Engineer | 🌐 Full-Stack Developer
 
-I am a B.Tech Computer Science & Engineering student specializing in Cloud Computing. I enjoy building web applications, exploring cloud technologies, and learning how to deploy and automate real-world systems.
+---
 
-🚀 About Me
-🎓 B.Tech CSE (Cloud Computing Specialization)
-☁️ Interested in AWS, DevOps, and Cloud Infrastructure
-🛠️ Learning website deployment, hosting, DNS, SSL, and cloud automation
-📚 Exploring Cloud Security, DevOps, and Infrastructure as Code
-💡 Passionate about building practical, real-world projects
-💻 Currently improving my Full-Stack Development skills
-💻 Tech Stack
-Cloud & DevOps
+## 🚀 About Me
+Computer Science Engineering student with strong fundamentals in **Java, SQL, and Web Development**.  
+I have hands-on experience building full-stack applications and solving real-world problems.  
+Familiar with **AWS cloud basics** and **Terraform for infrastructure automation**.  
 
-AWS • EC2 • S3 • IAM • VPC • Route 53 • CloudFront • RDS • Lambda • CloudWatch • Docker • Linux • Git • GitHub • CI/CD
+Currently seeking an **entry-level opportunity** to contribute to software development and grow in **Cloud Computing / Data Engineering domains**.
 
-Web Development
+---
 
-HTML • CSS • JavaScript • Node.js • Express.js • MongoDB • MySQL
+## 🎓 Education
 
-Tools & Design
+**B.Tech in Computer Science Engineering**  
+DY Patil International University, Pune, India  
 
-Figma • UI/UX Basics • SEO • Responsive Design
+**12th (HSC)**  
+CMS English Medium Higher Secondary School, Pune, India  
 
-📌 Projects
+**SSC (10th)**  
+CMS English Medium Higher Secondary School, Pune, India  
 
-🚀 SnapWeaz Website (Learning Project)
-Built a website with deployment basics, domain setup understanding, and CMS integration practice.
+---
 
-🍓 Sample Business Website Project
-Created a responsive website concept for a business with content structure and design focus.
+## 💡 Projects
 
-🔍 Lost & Found System (Concept Project)
-A simple platform idea to report and search lost items with tracking features.
+### 🎬 Movie Recommender System  
+**Technologies:** Python, Pandas, Scikit-learn  
+- Built a content-based recommendation system using cosine similarity  
+- Processed movie dataset and applied feature extraction techniques  
+- Improved recommendation accuracy using optimized similarity calculations  
 
-🚗 ANPR System (Learning Project)
-Exploring Automatic Number Plate Recognition using Python and OpenCV concepts.
+---
 
-📈 Current Focus
-Cloud Computing & AWS Services
-DevOps Fundamentals
-Docker & CI/CD Pipelines
-Full-Stack Development
-Real-world Project Building
+### 👨‍🎓 Alumni Management System  
+**Technologies:** HTML, CSS, JavaScript, Java, MySQL  
+- Developed a full-stack web application to manage alumni data  
+- Implemented login/signup authentication and session handling  
+- Connected frontend with backend and handled CRUD operations using SQL  
+- Designed responsive UI for better user experience  
 
-🌱 Goal
-To become a skilled Cloud & DevOps Engineer by building strong practical projects and gaining industry-ready skills.
+---
+
+### 📊 Task Scheduling System  
+**Technologies:** Java  
+- Implemented task scheduling using Greedy Algorithm and Dynamic Programming  
+- Compared time complexity and efficiency of both approaches  
+- Demonstrated optimization techniques for resource allocation  
+
+---
+
+## 🛠️ Skills
+
+**Programming:** Java  
+**Web Development:** HTML, CSS, JavaScript  
+**Databases:** MySQL  
+**Cloud & Tools:** AWS (EC2, S3 - Basics), Terraform (Basics), Git & GitHub  
+**Core Concepts:** OOP, Data Structures, Data Engineering (Data Lakes, Warehousing)  
+**Design:** UI/UX (Figma)  
+**Soft Skills:** Problem Solving, Communication, Teamwork  
+
+---
+
+## 💼 Internship Experience
+
+### Web Developer Intern | Ali Exim and Global  
+- Contributed to frontend development using HTML, CSS, JavaScript  
+- Improved UI responsiveness and implemented feature enhancements  
+- Debugged issues and ensured smooth functionality of web pages  
+- Worked with GitHub for version control and team collaboration  
+
+---
+
+## 📜 Certifications
+- IBM Full Stack Software Developer (Coursera)  
+- DevOps on AWS & Project Management (Coursera)  
+
+---
+
+## 📫 Contact
+📧 ishikasaini631@gmail.com  
+📍 Pune, Maharashtra  
+
+---
+
+⭐ *Always learning, building, and improving in the world of software & cloud technologies.*ps Engineer by building strong practical projects and gaining industry-ready skills.
