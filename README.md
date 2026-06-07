@@ -1,8 +1,8 @@
-# Hi there 👋, I'm Ishika Saini
+# Hi, I'm Ishika Saini 👋
 
-🎓 Cloud Computing Student
+🎓 B.Sc. Cloud Computing Student
 
-💻 Backend & Automation Intern at SnapWeaz
+💻 Backend & Automation Intern
 
 🌱 Currently Learning:
 - Python
@@ -11,14 +11,17 @@
 - API Development
 - AWS
 
-🚀 Internship Project:
+🚀 Working on:
 SnapDrive – SnapSecure
 Cloud Security Assessment Platform
 
-📫 Connect with me:
-- GitHub: https://github.com/ishikasaini631@gmail.com
+📌 Interests:
+- Backend Development
+- Cloud Computing
+- Cyber Security
+- Automation
 
-⭐ Always learning and building new things.
+⭐ Always learning new technologies.
 
 ## Skills
 - Python
@@ -27,3 +30,4 @@ Cloud Security Assessment Platform
 - AWS Basics
 - API Development
 - Cloud Security
+- Mysql
