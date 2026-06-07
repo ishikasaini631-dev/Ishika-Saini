@@ -19,3 +19,11 @@ Cloud Security Assessment Platform
 - GitHub: https://github.com/ishikasaini631@gmail.com
 
 ⭐ Always learning and building new things.
+
+## Skills
+- Python
+- Git & GitHub
+- Cloud Computing
+- AWS Basics
+- API Development
+- Cloud Security
